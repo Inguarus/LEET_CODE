@@ -1,4 +1,4 @@
-package StringTasks;
+package com.inguarus.StringTasks;
 
 /*
 Given a string S, return the "reversed" string where all characters that are not

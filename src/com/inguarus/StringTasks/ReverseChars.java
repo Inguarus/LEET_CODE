@@ -1,4 +1,4 @@
-package StringTasks;
+package com.inguarus.StringTasks;
 
 /*
 Write a function that reverses a string.

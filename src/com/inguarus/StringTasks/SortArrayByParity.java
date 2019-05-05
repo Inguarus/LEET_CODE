@@ -1,4 +1,4 @@
-package StringTasks;
+package com.inguarus.StringTasks;
 
 /*
 Given an array A of non-negative integers, return an array consisting of all
