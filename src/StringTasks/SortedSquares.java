@@ -1,4 +1,4 @@
-package com.inguarus;
+package StringTasks;
 
 /*
 Given an array of integers A sorted in non-decreasing order,

@@ -1,4 +1,4 @@
-package com.inguarus;
+package StringTasks;
 
 /*
 International Morse Code defines a standard encoding where
