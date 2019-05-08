@@ -1,8 +1,8 @@
-package com.inguarus.StringTasks;
+package com.inguarus.string_tasks;
 
 /*
-Given an array of integers A sorted in non-decreasing order,
-return an array of the squares of each number, also in sorted non-decreasing order.
+Given an array_tasks of integers A sorted in non-decreasing order,
+return an array_tasks of the squares of each number, also in sorted non-decreasing order.
  */
 
 import java.util.Arrays;

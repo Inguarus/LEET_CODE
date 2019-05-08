@@ -1,9 +1,9 @@
-package com.inguarus.StringTasks;
+package com.inguarus.string_tasks;
 
 /*
-Given an array A of non-negative integers, return an array consisting of all
+Given an array_tasks A of non-negative integers, return an array_tasks consisting of all
 the even elements of A, followed by all the odd elements of A.
-You may return any answer array that satisfies this condition.
+You may return any answer array_tasks that satisfies this condition.
  */
 
 class SortArrayByParity {

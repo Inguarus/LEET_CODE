@@ -1,4 +1,4 @@
-package com.inguarus.StringTasks;
+package com.inguarus.string_tasks;
 
 /*
   Given a string, you need to reverse the order of characters in each word

@@ -1,10 +1,10 @@
-package com.inguarus.StringTasks;
+package com.inguarus.string_tasks;
 
 /*
 Write a function that reverses a string.
-The input string is given as an array of characters char[].
-Do not allocate extra space for another array, you must do this
-by modifying the input array in-place with O(1) extra memory.
+The input string is given as an array_tasks of characters char[].
+Do not allocate extra space for another array_tasks, you must do this
+by modifying the input array_tasks in-place with O(1) extra memory.
 You may assume all the characters consist of printable ascii characters.
  */
 
